@@ -66,7 +66,7 @@ The main objective of this project is to provide a secure platform where users c
 
 ### 🏠 Homepage
 
-![Homepage](screenshot/Homepage.png)
+![Homepage](screenshot/homepage.png)
 
 ---
 
