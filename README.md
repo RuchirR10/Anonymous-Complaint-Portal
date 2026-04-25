@@ -60,31 +60,31 @@ The main objective of this project is to provide a secure platform where users c
 
 ### 🧑‍💼 Admin Dashboard
 
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Admin Dashboard](screenshot/admin_dashboard.png)
 
 ---
 
 ### 🏠 Homepage
 
-![Homepage](screenshots/Homepage.png)
+![Homepage](screenshot/Homepage.png)
 
 ---
 
 ### 📝 Complaint Form
 
-![Complaint Form](screenshots/complaint_form.png)
+![Complaint Form](screenshot/complaint_form.png)
 
 ---
 
 ### ✅ Complaint Submitted
 
-![Complaint Submitted](screenshots/complaint_submitted.png)
+![Complaint Submitted](screenshot/complaint_submitted.png)
 
 ---
 
 ### 🔍 Tracking Page
 
-![Tracking Page](screenshots/tracking_page.png)
+![Tracking Page](screenshot/tracking_page.png)
 
 
 ## 📌 Conclusion
