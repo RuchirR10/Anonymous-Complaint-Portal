@@ -56,5 +56,36 @@ The main objective of this project is to provide a secure platform where users c
 - Advanced security
 - AI-based complaint analysis
 
+## 📸 Screenshots
+
+### 🧑‍💼 Admin Dashboard
+
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+---
+
+### 🏠 Homepage
+
+![Homepage](screenshots/Homepage.png)
+
+---
+
+### 📝 Complaint Form
+
+![Complaint Form](screenshots/complaint_form.png)
+
+---
+
+### ✅ Complaint Submitted
+
+![Complaint Submitted](screenshots/complaint_submitted.png)
+
+---
+
+### 🔍 Tracking Page
+
+![Tracking Page](screenshots/tracking_page.png)
+
+
 ## 📌 Conclusion
 This project provides a secure, efficient, and anonymous platform for complaint management.
