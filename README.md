@@ -21,12 +21,12 @@ A **secure web-based platform** that allows users to submit complaints anonymous
 The main objective of this project is to provide a secure platform where users can report issues without fear of identity exposure. It helps improve transparency and ensures that complaints are properly handled.
 
 ## ⚙️ **Technologies Used**
-    - HTML
-    - CSS
-    - JavaScript
-    - PHP
-    - MySQL
-    - XAMPP Server
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- XAMPP Server
 
 ## 📁 Project Structure
     ├── index.php
@@ -39,22 +39,22 @@ The main objective of this project is to provide a secure platform where users c
     ├── uploads/
 
 ## 🔄 Working Flow
-    - User submits complaint
-    - Tracking ID generated
-    - Data stored in database
-    - Admin manages complaints
-    - User tracks complaint
+- User submits complaint
+- Tracking ID generated
+- Data stored in database
+- Admin manages complaints
+- User tracks complaint
 
 ## 🔐 Security Features
-    - Input sanitization
-    - CAPTCHA verification
-    - Session-based admin login
+- Input sanitization
+- CAPTCHA verification
+- Session-based admin login
 
 ## 🚀 Future Scope
-    - Email notifications
-    - Mobile application
-    - Advanced security
-    - AI-based complaint analysis
+- Email notifications
+- Mobile application
+- Advanced security
+- AI-based complaint analysis
 
 ## 📌 Conclusion
-    This project provides a secure, efficient, and anonymous platform for complaint management.
+This project provides a secure, efficient, and anonymous platform for complaint management.
