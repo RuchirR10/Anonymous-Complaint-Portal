@@ -5,7 +5,7 @@
 
 # 🛡️ Anonymous Complaint Portal
 
-A web-based application that allows users to submit complaints anonymously and track their complaint status using a unique tracking ID. The system ensures privacy, transparency, and efficient complaint management within an organization or institution.
+A **secure web-based platform** that allows users to submit complaints anonymously and track their status using a unique tracking ID.
 
 ## 🚀 **Features**
     -🕵️ Anonymous Complaint Submission
