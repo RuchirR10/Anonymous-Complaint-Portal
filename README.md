@@ -1,3 +1,8 @@
+![PHP](https://img.shields.io/badge/PHP-Backend-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 🛡️ Anonymous Complaint Portal
 
 A web-based application that allows users to submit complaints anonymously and track their complaint status using a unique tracking ID. The system ensures privacy, transparency, and efficient complaint management within an organization or institution.
